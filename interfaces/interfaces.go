@@ -1,9 +1,9 @@
 package interfaces
 
-func Perimeter(rectangle Rectange) float64 {
+func Perimeter(rectangle Rectangle) float64 {
 	return 2 * (rectangle.Width + rectangle.Height)
 }
 
-func Area(rectangle Rectange) float64 {
+func Area(rectangle Rectangle) float64 {
 	return rectangle.Width * rectangle.Height
 }
