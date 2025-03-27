@@ -1,1 +1,3 @@
-Learning GO concepts via Test Driven Development (TDD)
+Learning Idiomatic Go concepts via Test Driven Development (TDD)
+
+https://quii.gitbook.io/learn-go-with-tests
